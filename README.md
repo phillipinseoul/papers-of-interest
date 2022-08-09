@@ -21,6 +21,10 @@ List of research papers that come to my interest.
 * PSMNet: Position-aware Stereo Merging Network for Room Layout Estimation (CVPR 2022) [[Paper](https://arxiv.org/abs/2203.15965)]
 * HEAT: Holistic Edge Attention Transformer for Structured Reconstruction (CVPR 2022) [[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Chen_HEAT_Holistic_Edge_Attention_Transformer_for_Structured_Reconstruction_CVPR_2022_paper.pdf)]
 
+### Generative Models
+* InfiniteNature-Zero Learning Perpetual View Generation of Natural Scenes from Single Images (ECCV 2022 Oral) [[Page](https://infinite-nature-zero.github.io/)]
+* GAUDI: A Neural Architect for Immersive 3D Scene Generation (arXiv preprint, 2022) [[Github](https://github.com/apple/ml-gaudi)]
+* Unconstrained Scene Generation with Locally Conditioned Radiance Fields (ICCV 2021 
 
 ### Datasets
 * Structured3D: A Large Photo-realistic Dataset for Structured 3D Modeling [[Page](https://structured3d-dataset.org/)]
