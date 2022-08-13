@@ -21,6 +21,13 @@ List of research papers that come to my interest.
 * PSMNet: Position-aware Stereo Merging Network for Room Layout Estimation (CVPR 2022) [[Paper](https://arxiv.org/abs/2203.15965)]
 * HEAT: Holistic Edge Attention Transformer for Structured Reconstruction (CVPR 2022) [[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Chen_HEAT_Holistic_Edge_Attention_Transformer_for_Structured_Reconstruction_CVPR_2022_paper.pdf)]
 
+### Plane Extraction
+* PlaneFormers: From Sparse View Planes to 3D Reconstruction (ECCV 2022) [[Page](https://samiragarwala.github.io/PlaneFormers/)]
+* Planar Surface Reconstruction from Sparse Views (ICCV 2021 Oral) [[Paper](https://arxiv.org/abs/2103.14644)]
+
+### Transformers in Vision
+* Is Attention All NeRF Needs? (arXiv 2022) [[Paper](https://arxiv.org/pdf/2207.13298v1.pdf)]
+
 ### Generative Models
 * InfiniteNature-Zero Learning Perpetual View Generation of Natural Scenes from Single Images (ECCV 2022 Oral) [[Page](https://infinite-nature-zero.github.io/)]
 * GAUDI: A Neural Architect for Immersive 3D Scene Generation (arXiv preprint, 2022) [[Github](https://github.com/apple/ml-gaudi)]
